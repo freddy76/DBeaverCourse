@@ -86,5 +86,3 @@
    - Optimizar las consultas de inventario con índices y `EXPLAIN`.
 
 ---
-
-Estos ejercicios te ayudarán a aplicar paso a paso lo aprendido en cada módulo, desde las consultas más básicas hasta el diseño y optimización de una base de datos compleja.
