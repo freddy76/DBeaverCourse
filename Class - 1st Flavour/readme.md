@@ -154,5 +154,3 @@
      - Aplicar conceptos de diseño de tablas, relaciones, y restricciones.
      - Utilizar consultas complejas, triggers y vistas.
      - Optimizar el rendimiento del sistema creado.
-   
-Este curso debería proporcionarte una base sólida
