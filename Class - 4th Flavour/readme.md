@@ -86,5 +86,3 @@
    - Optimizaciones con índices y verificación de rendimiento con `EXPLAIN`.
 
 ---
-
-Estos ejercicios te permitirán profundizar en los conceptos y aplicar SQL en escenarios reales con la estructura de datos de la Sample Database en DBeaver.
