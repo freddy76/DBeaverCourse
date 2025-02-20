@@ -191,5 +191,3 @@ INSERT INTO InvoiceLine (InvoiceID, TrackID, Quantity, UnitPrice) VALUES
    - Optimizaciones con índices y verificación de rendimiento con `EXPLAIN`.
 
 ---
-
-Estos ejercicios aplican conceptos avanzados y prácticas de PostgreSQL en una base de datos realista para una comprensión más profunda.
